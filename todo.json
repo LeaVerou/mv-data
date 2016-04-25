@@ -9,7 +9,7 @@
 			"taskTitle": "bar"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "yolo"
 		}
 	]
