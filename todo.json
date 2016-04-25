@@ -15,6 +15,10 @@
 		{
 			"done": true,
 			"taskTitle": "actually edit CSS4 color"
+		},
+		{
+			"done": false,
+			"taskTitle": "Make more adapters"
 		}
 	]
 }
