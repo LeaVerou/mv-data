@@ -11,6 +11,10 @@
 		{
 			"done": false,
 			"taskTitle": "yolo"
+		},
+		{
+			"done": true,
+			"taskTitle": "actually edit CSS4 color"
 		}
 	]
 }
