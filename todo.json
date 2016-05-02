@@ -5,10 +5,6 @@
 			"taskTitle": "foo"
 		},
 		{
-			"done": false,
-			"taskTitle": "bar"
-		},
-		{
 			"done": true,
 			"taskTitle": "yolo"
 		},
@@ -19,6 +15,10 @@
 		{
 			"done": true,
 			"taskTitle": "Make more adapters"
+		},
+		{
+			"done": false,
+			"taskTitle": "meet harry shum"
 		}
 	]
 }
