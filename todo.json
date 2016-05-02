@@ -5,11 +5,11 @@
 			"taskTitle": "foo"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "bar"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "yolo"
 		},
 		{
@@ -17,7 +17,7 @@
 			"taskTitle": "actually edit CSS4 color"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Make more adapters"
 		}
 	]
