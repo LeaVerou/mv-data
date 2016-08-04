@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Code furiously"
 		},
 		{
@@ -13,7 +13,7 @@
 			"taskTitle": "Write paper"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "Have a life"
 		}
 	]
