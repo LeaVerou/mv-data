@@ -2,23 +2,19 @@
 	"task": [
 		{
 			"done": false,
-			"taskTitle": "foo"
+			"taskTitle": "Code furiously"
 		},
 		{
 			"done": true,
-			"taskTitle": "yolo"
+			"taskTitle": "Do user study"
 		},
 		{
 			"done": true,
-			"taskTitle": "actually edit CSS4 color"
+			"taskTitle": "Write paper"
 		},
 		{
 			"done": true,
-			"taskTitle": "Make more adapters"
-		},
-		{
-			"done": false,
-			"taskTitle": "meet harry shum"
+			"taskTitle": "Have a life"
 		}
 	]
 }
