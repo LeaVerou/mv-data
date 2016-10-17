@@ -6,6 +6,7 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
 				"name": "Widget Corp",
@@ -28,6 +29,7 @@
 			]
 		},
 		{
+			"id": "1",
 			"date": "2016-10-07",
 			"recipient": {
 				"name": "John Doe",
