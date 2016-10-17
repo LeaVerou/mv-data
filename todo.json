@@ -14,15 +14,7 @@
 		},
 		{
 			"done": false,
-			"taskTitle": "Have a life!!"
-		},
-		{
-			"done": true,
-			"taskTitle": "Do UIST demo"
-		},
-		{
-			"done": true,
-			"taskTitle": "Get wine"
+			"taskTitle": "Have a life!!!"
 		}
 	]
 }
