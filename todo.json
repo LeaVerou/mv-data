@@ -19,6 +19,10 @@
 		{
 			"done": true,
 			"taskTitle": "Do UIST demo"
+		},
+		{
+			"done": true,
+			"taskTitle": "Get wine"
 		}
 	]
 }
