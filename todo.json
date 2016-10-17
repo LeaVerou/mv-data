@@ -14,7 +14,11 @@
 		},
 		{
 			"done": false,
-			"taskTitle": "Have a life!!!"
+			"taskTitle": "Have a life!!"
+		},
+		{
+			"done": true,
+			"taskTitle": "Do UIST demo"
 		}
 	]
 }
