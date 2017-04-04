@@ -6,6 +6,9 @@
 		{
 			"code": "us",
 			"name": "United States"
+		},
+		{
+			"code": "gb"
 		}
 	]
 }
