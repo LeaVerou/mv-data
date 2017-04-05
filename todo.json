@@ -15,10 +15,6 @@
 		{
 			"done": false,
 			"taskTitle": "Have a life!"
-		},
-		{
-			"done": false,
-			"taskTitle": "???"
 		}
 	],
 	"@type": "todo"
