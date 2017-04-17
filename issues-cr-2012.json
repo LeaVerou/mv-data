@@ -29,6 +29,18 @@
 			]
 		},
 		{
+			"id": "3",
+			"summary": "Effect of transforms on 'snap'",
+			"status": "open",
+			"from": "Simon Sapin",
+			"comment": [
+				"http://lists.w3.org/Archives/Public/www-style/2013Feb/0053.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
 			"id": 32,
 			"summary": "Syntax for image() incorrect?",
 			"from": "Sebastian Zartner",
