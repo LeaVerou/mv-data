@@ -1,0 +1,44 @@
+{
+	"draft": "http://www.w3.org/TR/2012/CR-css3-images-20120417/",
+	"title": "CSS Image Values and Replaced Content Level 3",
+	"comments": "",
+	"issue": [
+		{
+			"id": 1,
+			"summary": "Reductions to image() functionality",
+			"from": "Dirk Schulze",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0177.html",
+				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0202.html"
+			],
+			"status": "deferred",
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": 2,
+			"summary": "Reductions to image() functionality",
+			"from": "Justin Novosad",
+			"comment": [
+				"http://lists.w3.org/Archives/Public/www-style/2014Apr/0203.html"
+			],
+			"status": "open",
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": 32,
+			"summary": "Syntax for image() incorrect?",
+			"from": "Sebastian Zartner",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Mar/0043.html"
+			],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Mar/0046.html"
+			],
+			"status": "invalid"
+		}
+	]
+}
