@@ -101,6 +101,30 @@
 			]
 		},
 		{
+			"id": "9",
+			"summary": "Clipping to concrete object size",
+			"status": "open",
+			"from": "Simon Sapin",
+			"comment": [
+				"http://lists.w3.org/Archives/Public/www-style/2013Apr/0043.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "10",
+			"summary": "Default size editorial fixes",
+			"status": "open",
+			"from": "Simon Sapin",
+			"comment": [
+				"http://lists.w3.org/Archives/Public/www-style/2013Apr/0046.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
 			"id": 32,
 			"summary": "Syntax for image() incorrect?",
 			"from": "Sebastian Zartner",
