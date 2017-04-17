@@ -254,7 +254,8 @@
 			],
 			"response": [
 				{}
-			]
+			],
+			"notes": "=ED= See if this was discussed already?"
 		},
 		{
 			"id": "22",
@@ -329,6 +330,56 @@
 			]
 		},
 		{
+			"id": "28",
+			"summary": "Contradiction in <color-stop-list> definition",
+			"status": "open",
+			"from": "Daniel Holbert",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2015Oct/0219.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "29",
+			"summary": "Align syntax of radius args between shapes and radial-gradient",
+			"status": "open",
+			"from": "Alan Stearns",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2015Dec/0091.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "30",
+			"summary": "Apply image-rendering to gradients",
+			"status": "open",
+			"from": "Amelia Bellamy-Royds",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0017.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "31",
+			"summary": "Add new value for high-quality image-rendering",
+			"status": "open",
+			"from": "CSSWG",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html",
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0312.html",
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0318.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
 			"id": 32,
 			"summary": "Syntax for image() incorrect?",
 			"from": "Sebastian Zartner",
@@ -339,6 +390,30 @@
 				"https://lists.w3.org/Archives/Public/www-style/2016Mar/0046.html"
 			],
 			"status": "invalid"
+		},
+		{
+			"id": "33",
+			"summary": "Special-case 'transparent' as a color stop",
+			"status": "open",
+			"from": "Mark Straver",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Jan/0181.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "34",
+			"summary": "Clarify failed loading conditions per Fetch",
+			"status": "open",
+			"from": "Henrik Andersson",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Sep/0105.html"
+			],
+			"response": [
+				{}
+			]
 		}
 	]
 }
