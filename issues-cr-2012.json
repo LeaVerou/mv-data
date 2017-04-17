@@ -317,6 +317,18 @@
 			]
 		},
 		{
+			"id": "27",
+			"summary": "Ban javascript: URLs from images",
+			"status": "open",
+			"from": "Florian Rivoal",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2015May/0070.html"
+			],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2015May/0074.html"
+			]
+		},
+		{
 			"id": 32,
 			"summary": "Syntax for image() incorrect?",
 			"from": "Sebastian Zartner",
