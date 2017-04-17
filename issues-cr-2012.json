@@ -293,6 +293,30 @@
 			]
 		},
 		{
+			"id": "25",
+			"summary": "Gamma errors in image downscaling",
+			"status": "open",
+			"from": "Lea Verou",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2014Nov/0114.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "26",
+			"summary": "Cursor coords",
+			"status": "open",
+			"from": "Florian Rivoal",
+			"comment": [
+				"https://www.w3.org/mid/D2119FF9-C42C-4E62-8EFD-BEFE01641C5C@rivoal.net"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
 			"id": 32,
 			"summary": "Syntax for image() incorrect?",
 			"from": "Sebastian Zartner",
