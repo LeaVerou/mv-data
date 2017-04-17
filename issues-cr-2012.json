@@ -18,7 +18,7 @@
 		},
 		{
 			"id": 2,
-			"summary": "Reductions to image() functionality",
+			"summary": "Deprecating image-orientation",
 			"from": "Justin Novosad",
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2014Apr/0203.html"
