@@ -210,10 +210,11 @@
 		},
 		{
 			"id": "18",
+			"summary": "Ambiguous RFC2119 MUST wrt order of color stops",
 			"status": "open",
 			"from": "Dirk Schulze",
 			"comment": [
-				{}
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0295.html"
 			],
 			"response": [
 				{}
@@ -221,10 +222,11 @@
 		},
 		{
 			"id": "19",
+			"summary": "Is animation on original color stop ordering or post-processed list?",
 			"status": "open",
 			"from": "Dirk Schulze",
 			"comment": [
-				{}
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0296.html"
 			],
 			"response": [
 				{}
@@ -232,10 +234,35 @@
 		},
 		{
 			"id": "20",
+			"summary": "Functional notation introspection for interpolation",
 			"status": "open",
 			"from": "Dirk Schulze",
 			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Sep/0069.html"
+			],
+			"response": [
 				{}
+			]
+		},
+		{
+			"id": "21",
+			"summary": "Drop allowance for smaller-than 300px default object size",
+			"status": "open",
+			"from": "Simon Sapin",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2014Jan/0310.html"
+			],
+			"response": [
+				{}
+			]
+		},
+		{
+			"id": "22",
+			"summary": "::before/::after on replaced elements",
+			"status": "open",
+			"from": "Florian Rivoal",
+			"comment": [
+				"https://lists.w3.org/Archives/Public/www-style/2014Aug/0349.html"
 			],
 			"response": [
 				{}
