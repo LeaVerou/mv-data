@@ -370,15 +370,14 @@
 		{
 			"id": "36",
 			"summary": "[css-content] URL fallbacks in 'content' should require type() or format()",
-			"status": "deferred",
+			"status": "open",
 			"from": "zcorpan",
 			"comment": [
 				"https://github.com/w3c/csswg-drafts/issues/217"
 			],
 			"response": [
 				"https://github.com/w3c/csswg-drafts/issues/217#issuecomment-227837509"
-			],
-			"notes": "Will be solved in `image()`, which was deferred to Level 4."
+			]
 		}
 	]
 }
