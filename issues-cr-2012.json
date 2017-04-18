@@ -404,7 +404,7 @@
 		{
 			"id": "39",
 			"summary": "Clarification about `Nx` as <resolution> value in image-set() is needed",
-			"status": "open",
+			"status": "accepted",
 			"from": "lahmatiy",
 			"comment": [
 				"https://github.com/w3c/csswg-drafts/issues/461"
@@ -432,6 +432,19 @@
 			],
 			"authorResponse": "https://github.com/w3c/csswg-drafts/issues/1148#issuecomment-291931215",
 			"resolved": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html"
+		},
+		{
+			"id": "42",
+			"summary": "Compute/round the <angle> value for image-orientation property is not consistent",
+			"status": "accepted",
+			"from": "chenpighead",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/1206"
+			],
+			"response": [
+				"https://github.com/w3c/csswg-drafts/issues/1206#issuecomment-293631054",
+				"https://github.com/w3c/csswg-drafts/issues/1206#issuecomment-293672414"
+			]
 		}
 	]
 }
