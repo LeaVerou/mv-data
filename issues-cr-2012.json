@@ -354,6 +354,18 @@
 				"https://lists.w3.org/Archives/Public/www-style/2016Sep/0105.html"
 			],
 			"response": []
+		},
+		{
+			"id": "35",
+			"summary": "Poor figure",
+			"status": "accepted",
+			"from": "heftig",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/188"
+			],
+			"response": [
+				"https://github.com/w3c/csswg-drafts/issues/188#issuecomment-228914176"
+			]
 		}
 	]
 }
