@@ -12,10 +12,8 @@
 				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0202.html"
 			],
 			"status": "deferred",
-			"response": [
-				{}
-			],
-			"notes": "`image()` has been deferred to [Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)"
+			"response": [],
+			"notes": "[`image()` has been deferred to Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)"
 		},
 		{
 			"id": 2,
@@ -25,9 +23,7 @@
 				"http://lists.w3.org/Archives/Public/www-style/2014Apr/0203.html"
 			],
 			"status": "open",
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "3",
@@ -37,9 +33,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Feb/0053.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "4",
@@ -49,9 +43,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Jul/0568.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "5",
@@ -61,9 +53,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Jul/0566.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "6",
@@ -73,9 +63,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Jun/0337.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "7",
@@ -97,9 +85,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Apr/0123.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "9",
@@ -109,9 +95,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Apr/0043.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "10",
@@ -121,9 +105,7 @@
 			"comment": [
 				"http://lists.w3.org/Archives/Public/www-style/2013Apr/0046.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "11",
@@ -133,9 +115,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Mar/0750.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "12",
@@ -145,9 +125,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0309.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "13",
@@ -157,9 +135,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0284.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "14",
@@ -169,9 +145,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0284.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "15",
@@ -181,9 +155,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0300.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "16",
@@ -193,9 +165,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0294.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "17",
@@ -205,9 +175,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Sep/0011.html"
 			],
-			"response": [
-				{}
-			],
+			"response": [],
 			"notes": "`image()` has been deferred to [Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)"
 		},
 		{
@@ -218,9 +186,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0295.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "19",
@@ -230,9 +196,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0296.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "20",
@@ -242,9 +206,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Sep/0069.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "21",
@@ -254,9 +216,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2014Jan/0310.html"
 			],
-			"response": [
-				{}
-			],
+			"response": [],
 			"notes": "=ED= See if this was discussed already?"
 		},
 		{
@@ -267,9 +227,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2014Aug/0349.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "23",
@@ -279,9 +237,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0019.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "24",
@@ -291,9 +247,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2014Oct/0504.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "25",
@@ -303,9 +257,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2014Nov/0114.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "26",
@@ -315,9 +267,7 @@
 			"comment": [
 				"https://www.w3.org/mid/D2119FF9-C42C-4E62-8EFD-BEFE01641C5C@rivoal.net"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "27",
@@ -339,9 +289,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2015Oct/0219.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "29",
@@ -351,9 +299,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2015Dec/0091.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "30",
@@ -363,9 +309,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0017.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "31",
@@ -377,9 +321,7 @@
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0312.html",
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0318.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": 32,
@@ -401,9 +343,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2016Jan/0181.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		},
 		{
 			"id": "34",
@@ -413,9 +353,7 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2016Sep/0105.html"
 			],
-			"response": [
-				{}
-			]
+			"response": []
 		}
 	]
 }
