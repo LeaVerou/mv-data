@@ -14,7 +14,8 @@
 			"status": "deferred",
 			"response": [
 				{}
-			]
+			],
+			"notes": "`image()` has been deferred to [Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)"
 		},
 		{
 			"id": 2,
@@ -206,7 +207,8 @@
 			],
 			"response": [
 				{}
-			]
+			],
+			"notes": "`image()` has been deferred to [Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)"
 		},
 		{
 			"id": "18",
