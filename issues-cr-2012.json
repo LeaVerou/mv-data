@@ -400,6 +400,38 @@
 				"https://github.com/w3c/csswg-drafts/issues/458"
 			],
 			"response": []
+		},
+		{
+			"id": "39",
+			"summary": "Clarification about `Nx` as <resolution> value in image-set() is needed",
+			"status": "open",
+			"from": "lahmatiy",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/461"
+			],
+			"response": []
+		},
+		{
+			"id": "40",
+			"summary": "Elements with intrinsic size but no aspect ratio",
+			"status": "open",
+			"from": "fantasai",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/1044"
+			],
+			"response": []
+		},
+		{
+			"id": "41",
+			"summary": "Move underimplemented features to Images 4",
+			"status": "accepted",
+			"from": "Lea Verou",
+			"comment": [],
+			"response": [
+				"https://github.com/w3c/csswg-drafts/issues/1148#issuecomment-291931215"
+			],
+			"authorResponse": "https://github.com/w3c/csswg-drafts/issues/1148#issuecomment-291931215",
+			"resolved": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html"
 		}
 	]
 }
