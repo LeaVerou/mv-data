@@ -369,7 +369,7 @@
 		},
 		{
 			"id": "36",
-			"summary": "[css-content] URL fallbacks in 'content' should require type() or format()",
+			"summary": "URL fallbacks in 'content' should require type() or format()",
 			"status": "open",
 			"from": "zcorpan",
 			"comment": [
