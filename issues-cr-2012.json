@@ -376,8 +376,30 @@
 				"https://github.com/w3c/csswg-drafts/issues/217"
 			],
 			"response": [
-				"https://github.com/w3c/csswg-drafts/issues/217#issuecomment-227837509"
+				"https://github.com/w3c/csswg-drafts/issues/217#issuecomment-227837509",
+				"https://github.com/w3c/csswg-drafts/issues/217#issuecomment-294695502"
 			]
+		},
+		{
+			"id": "37",
+			"summary": "Ambiguities in handling url()",
+			"status": "open",
+			"from": "Tab Atkins-Bittner",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/383"
+			],
+			"response": [],
+			"notes": "[TPAC Discussion](https://lists.w3.org/Archives/Public/www-style/2016Nov/0070.html)"
+		},
+		{
+			"id": "38",
+			"summary": "Wrong <color-stop-list> syntax",
+			"status": "accepted",
+			"from": "lahmatiy",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/458"
+			],
+			"response": []
 		}
 	]
 }
