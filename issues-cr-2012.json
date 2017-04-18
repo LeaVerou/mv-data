@@ -445,6 +445,20 @@
 				"https://github.com/w3c/csswg-drafts/issues/1206#issuecomment-293631054",
 				"https://github.com/w3c/csswg-drafts/issues/1206#issuecomment-293672414"
 			]
+		},
+		{
+			"id": "43",
+			"summary": "Add CanIUse panels",
+			"status": "accepted",
+			"from": "cvrebert",
+			"comment": [
+				"https://github.com/w3c/csswg-drafts/issues/1215"
+			],
+			"response": [
+				"https://github.com/w3c/csswg-drafts/issues/1215#issuecomment-293797916",
+				"https://github.com/w3c/csswg-drafts/issues/1215#issuecomment-293798603"
+			],
+			"authorResponse": "https://github.com/w3c/csswg-drafts/issues/1215#issuecomment-294223566"
 		}
 	]
 }
