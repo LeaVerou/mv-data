@@ -260,18 +260,22 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0296.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0349.html"
+			],
 			"openness": "open"
 		},
 		{
 			"id": "20",
-			"summary": "Functional notation introspection for interpolation",
+			"summary": "Interpolation of image functional notations",
 			"status": "new",
 			"from": "Dirk Schulze",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Sep/0069.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Sep/0073.html"
+			],
 			"openness": "open"
 		},
 		{
