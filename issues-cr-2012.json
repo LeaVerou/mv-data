@@ -120,12 +120,14 @@
 		{
 			"id": "9",
 			"summary": "Clipping to concrete object size",
-			"status": "new",
+			"status": "out-of-scope",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0043.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0047.html"
+			],
 			"openness": "open"
 		},
 		{
