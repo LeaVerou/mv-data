@@ -1,15 +1,20 @@
 {
 	"task": [
 		{
-			"done": false,
-			"taskTitle": "adslkjfasldfja;lskdfasd"
+			"done": true,
+			"taskTitle": "Code furiously"
+		},
+		{
+			"done": true,
+			"taskTitle": "Do user study"
 		},
 		{
 			"done": false,
-			"taskTitle": "asdfasdfasdfasf"
+			"taskTitle": "Write paper!"
 		},
 		{
-			"done": false
+			"done": false,
+			"taskTitle": "Have a life!"
 		}
 	],
 	"@type": "todo"
