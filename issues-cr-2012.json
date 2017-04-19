@@ -138,7 +138,9 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0046.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2017Apr/0043.html"
+			],
 			"openness": "closed"
 		},
 		{
@@ -352,7 +354,7 @@
 		{
 			"id": "27",
 			"summary": "Ban javascript: URLs from images",
-			"status": "new",
+			"status": "out-of-scope",
 			"from": "Florian Rivoal",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2015May/0070.html"
@@ -360,7 +362,8 @@
 			"response": [
 				"https://lists.w3.org/Archives/Public/www-style/2015May/0074.html"
 			],
-			"openness": "open"
+			"openness": "closed",
+			"notes": "Now a Values and Units issue"
 		},
 		{
 			"id": "28",
