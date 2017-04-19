@@ -133,13 +133,13 @@
 		{
 			"id": "10",
 			"summary": "Default size editorial fixes",
-			"status": "new",
+			"status": "invalid",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0046.html"
 			],
 			"response": [],
-			"openness": "open"
+			"openness": "closed"
 		},
 		{
 			"id": "11",
@@ -340,11 +340,11 @@
 		},
 		{
 			"id": "26",
-			"summary": "Cursor coords",
+			"summary": "Cursor coordinate system",
 			"status": "new",
 			"from": "Florian Rivoal",
 			"comment": [
-				"https://www.w3.org/mid/D2119FF9-C42C-4E62-8EFD-BEFE01641C5C@rivoal.net"
+				"https://lists.w3.org/Archives/Public/www-style/2015Apr/0193.html"
 			],
 			"response": [],
 			"openness": "open"
