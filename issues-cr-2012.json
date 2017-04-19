@@ -23,10 +23,14 @@
 			"summary": "Deprecating image-orientation",
 			"from": "Justin Novosad",
 			"comment": [
-				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0203.html"
+				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0179.html"
 			],
-			"status": "new",
-			"response": [],
+			"status": "accepted",
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0203.html",
+				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0186.html",
+				"https://lists.w3.org/Archives/Public/www-style/2014Apr/0189.html"
+			],
 			"openness": "open"
 		},
 		{
@@ -76,7 +80,7 @@
 		{
 			"id": "7",
 			"summary": "Clarify interpretation of single-color gradients",
-			"status": "new",
+			"status": "accepted",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0119.html"
@@ -84,7 +88,8 @@
 			"response": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0196.html"
 			],
-			"openness": "open"
+			"openness": "closed",
+			"resolved": "editorial"
 		},
 		{
 			"id": "8",
