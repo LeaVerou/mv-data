@@ -219,7 +219,8 @@
 			"response": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0351.html"
 			],
-			"openness": "closed"
+			"openness": "closed",
+			"resolved": "editorial"
 		},
 		{
 			"id": "17",
@@ -238,13 +239,18 @@
 		{
 			"id": "18",
 			"summary": "Ambiguous RFC2119 MUST wrt order of color stops",
-			"status": "new",
+			"status": "accepted",
 			"from": "Dirk Schulze",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0295.html"
 			],
-			"response": [],
-			"openness": "open"
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0350.html",
+				"https://lists.w3.org/Archives/Public/www-style/2017Apr/0041.html"
+			],
+			"openness": "closed",
+			"authorResponse": "https://lists.w3.org/Archives/Public/www-style/2013Sep/0036.html",
+			"resolved": "editorial"
 		},
 		{
 			"id": "19",
