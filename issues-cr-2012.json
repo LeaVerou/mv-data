@@ -106,13 +106,16 @@
 		{
 			"id": "8",
 			"summary": "Clarifications to gradient line calculations",
-			"status": "new",
+			"status": "accepted",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0123.html"
 			],
-			"response": [],
-			"openness": "open"
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0180.html"
+			],
+			"openness": "closed",
+			"resolved": "editorial"
 		},
 		{
 			"id": "9",
