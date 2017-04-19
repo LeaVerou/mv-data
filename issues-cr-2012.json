@@ -143,18 +143,20 @@
 		},
 		{
 			"id": "11",
-			"summary": "Define 'image-rendering: auto' as UA-defined",
-			"status": "new",
+			"summary": "Define 'image-rendering: auto' as UA-defined and add new 'smooth' value",
+			"status": "accepted",
 			"from": "Simon Fraser",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Mar/0750.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Mar/0751.html"
+			],
 			"openness": "open"
 		},
 		{
 			"id": "12",
-			"summary": "Gradient animation is wonky",
+			"summary": "Gradient angle animation is wonky",
 			"status": "new",
 			"from": "Dirk Schulze",
 			"comment": [
@@ -165,13 +167,16 @@
 		},
 		{
 			"id": "13",
-			"summary": "Syntax of cross-fade()",
-			"status": "new",
+			"summary": "Syntax of cross-fade() does not match implementations",
+			"status": "rejected",
 			"from": "Dirk Schulze",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0284.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0286.html",
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0326.html"
+			],
 			"openness": "open"
 		},
 		{
@@ -182,7 +187,10 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0284.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0286.html",
+				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0326.html"
+			],
 			"openness": "open"
 		},
 		{
