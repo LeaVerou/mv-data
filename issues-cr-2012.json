@@ -64,13 +64,16 @@
 		{
 			"id": "5",
 			"summary": "Clarify interpretation of physical units in intrinsic image resolutions",
-			"status": "new",
+			"status": "deferred",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Jul/0566.html"
 			],
 			"response": [],
-			"openness": "open"
+			"openness": "closed",
+			"resolved": "resolution",
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html",
+			"notes": "`image-resolution` was deferred to Level 4"
 		},
 		{
 			"id": "6",
