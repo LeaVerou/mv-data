@@ -13,8 +13,10 @@
 			],
 			"status": "deferred",
 			"response": [],
-			"notes": "[`image()` has been deferred to Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)",
-			"openness": "closed"
+			"notes": "`image()` has been deferred to Level 4",
+			"openness": "closed",
+			"resolved": "resolution",
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html"
 		},
 		{
 			"id": 2,
@@ -193,7 +195,9 @@
 			],
 			"response": [],
 			"notes": "`image()` has been deferred to [Level 4](https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html)",
-			"openness": "closed"
+			"openness": "closed",
+			"resolved": "resolution",
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html"
 		},
 		{
 			"id": "18",
@@ -365,7 +369,8 @@
 				"https://lists.w3.org/Archives/Public/www-style/2016Mar/0046.html"
 			],
 			"status": "invalid",
-			"openness": "closed"
+			"openness": "closed",
+			"authorResponse": "https://lists.w3.org/Archives/Public/www-style/2016Mar/0052.html"
 		},
 		{
 			"id": "33",
