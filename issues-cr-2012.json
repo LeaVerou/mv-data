@@ -163,7 +163,8 @@
 				"https://lists.w3.org/Archives/Public/www-style/2013Aug/0309.html"
 			],
 			"response": [],
-			"openness": "open"
+			"openness": "open",
+			"notes": "Also see [issue 9 in the spec](https://drafts.csswg.org/css-images-3/#issue-72cb0197)"
 		},
 		{
 			"id": "13",
