@@ -368,23 +368,28 @@
 		{
 			"id": "28",
 			"summary": "Contradiction in <color-stop-list> definition",
-			"status": "new",
+			"status": "accepted",
 			"from": "Daniel Holbert",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2015Oct/0219.html"
 			],
-			"response": [],
-			"openness": "open"
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2017Apr/0044.html"
+			],
+			"openness": "closed"
 		},
 		{
 			"id": "29",
-			"summary": "Align syntax of radius args between shapes and radial-gradient",
+			"summary": "Allow ellipse with 1 size in radial-gradient()?",
 			"status": "new",
 			"from": "Alan Stearns",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2015Dec/0091.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2015Dec/0092.html",
+				"https://lists.w3.org/Archives/Public/www-style/2015Dec/0130.html"
+			],
 			"openness": "open"
 		},
 		{
@@ -395,8 +400,13 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0017.html"
 			],
-			"response": [],
-			"openness": "open"
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0167.html",
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0168.html",
+				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0177.html"
+			],
+			"openness": "open",
+			"authorResponse": "https://lists.w3.org/Archives/Public/www-style/2016Feb/0170.html"
 		},
 		{
 			"id": "31",
