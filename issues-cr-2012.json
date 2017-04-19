@@ -395,7 +395,7 @@
 		{
 			"id": "30",
 			"summary": "Apply image-rendering to gradients",
-			"status": "new",
+			"status": "rejected",
 			"from": "Amelia Bellamy-Royds",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0017.html"
@@ -405,8 +405,10 @@
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0168.html",
 				"https://lists.w3.org/Archives/Public/www-style/2016Feb/0177.html"
 			],
-			"openness": "open",
-			"authorResponse": "https://lists.w3.org/Archives/Public/www-style/2016Feb/0170.html"
+			"openness": "closed",
+			"authorResponse": "https://lists.w3.org/Archives/Public/www-style/2016Feb/0170.html",
+			"resolved": "resolution",
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html"
 		},
 		{
 			"id": "31",
