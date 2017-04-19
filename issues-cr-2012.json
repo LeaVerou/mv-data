@@ -280,7 +280,7 @@
 		},
 		{
 			"id": "21",
-			"summary": "Drop allowance for smaller-than 300px default object size",
+			"summary": "Simplify default object size rules when no intrinsic ratio or dimensions are present",
 			"status": "new",
 			"from": "Simon Sapin",
 			"comment": [
@@ -298,18 +298,22 @@
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2014Aug/0349.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2014Aug/0360.html"
+			],
 			"openness": "open"
 		},
 		{
 			"id": "23",
 			"summary": "Need more precise definition for pixelated",
-			"status": "new",
+			"status": "invalid",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0019.html"
 			],
-			"response": [],
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2017Apr/0042.html"
+			],
 			"openness": "open"
 		},
 		{
