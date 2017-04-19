@@ -439,14 +439,20 @@
 		},
 		{
 			"id": "33",
-			"summary": "Special-case 'transparent' as a color stop",
+			"summary": "Special-case 'transparent' as a color stop and use non-premultiplied RGBA",
 			"status": "new",
 			"from": "Mark Straver",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2016Jan/0181.html"
 			],
-			"response": [],
-			"openness": "open"
+			"response": [
+				"https://lists.w3.org/Archives/Public/www-style/2016Jan/0201.html",
+				"https://lists.w3.org/Archives/Public/www-style/2016Apr/0136.html",
+				"https://lists.w3.org/Archives/Public/www-style/2016Apr/0199.html"
+			],
+			"openness": "open",
+			"authorResponse": "https://lists.w3.org/Archives/Public/www-style/2016Jan/0220.html",
+			"notes": "[TPAC Minutes from relevant resolution](https://lists.w3.org/Archives/Public/www-style/2012Nov/0262.html)"
 		},
 		{
 			"id": "34",
