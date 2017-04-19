@@ -44,18 +44,22 @@
 			"response": [],
 			"openness": "closed",
 			"resolved": "resolution",
-			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html"
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html",
+			"notes": "`image-resolution` was deferred to Level 4"
 		},
 		{
 			"id": "4",
-			"summary": "from-image and X/Y resolution",
-			"status": "new",
+			"summary": "image-resolution: from-image with different X/Y values",
+			"status": "deferred",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Jul/0568.html"
 			],
 			"response": [],
-			"openness": "open"
+			"openness": "closed",
+			"resolved": "resolution",
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html",
+			"notes": "`image-resolution` was deferred to Level 4"
 		},
 		{
 			"id": "5",
