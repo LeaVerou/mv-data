@@ -35,14 +35,16 @@
 		},
 		{
 			"id": "3",
-			"summary": "Effect of transforms on 'snap'",
-			"status": "new",
+			"summary": "Effect of transforms on image-resolution: snap",
+			"status": "deferred",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Feb/0053.html"
 			],
 			"response": [],
-			"openness": "open"
+			"openness": "closed",
+			"resolved": "resolution",
+			"resolution": "https://lists.w3.org/Archives/Public/www-style/2017Apr/0018.html"
 		},
 		{
 			"id": "4",
@@ -89,7 +91,8 @@
 				"https://lists.w3.org/Archives/Public/www-style/2013Apr/0196.html"
 			],
 			"openness": "closed",
-			"resolved": "editorial"
+			"resolved": "editorial",
+			"notes": "Despite what Tab seems to be implying in the comment there, what he actually did was restrict color stops to two colors. Either way, he resolved the issue."
 		},
 		{
 			"id": "8",
