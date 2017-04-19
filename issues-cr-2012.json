@@ -78,13 +78,15 @@
 		{
 			"id": "6",
 			"summary": "Provide math for gradient lines",
-			"status": "new",
+			"status": "accepted",
 			"from": "Simon Sapin",
 			"comment": [
 				"https://lists.w3.org/Archives/Public/www-style/2013Jun/0337.html"
 			],
 			"response": [],
-			"openness": "open"
+			"openness": "closed",
+			"resolved": "editorial",
+			"notes": "No response, but Simon's note appears to have been added to the spec."
 		},
 		{
 			"id": "7",
