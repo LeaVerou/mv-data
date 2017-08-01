@@ -6,7 +6,7 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
-			"id": "2",
+			"id": "3",
 			"date": "2016-10-06",
 			"recipient": {
 				"name": "Widget Corp",
@@ -25,6 +25,21 @@
 				{
 					"description": "Web hosting",
 					"amount": "20"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"date": "2017-05-11",
+			"recipient": {
+				"name": "Test",
+				"address": "test"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "Keyboard",
+					"amount": "500"
 				}
 			]
 		},
