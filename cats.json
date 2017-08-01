@@ -22,7 +22,8 @@
 		},
 		{
 			"photo": "img/shrodingcat.png",
-			"name": "Schrödingcat"
+			"name": "Schrödingcat",
+			"age": "8"
 		}
 	]
 }
