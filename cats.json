@@ -1,0 +1,28 @@
+{
+	"cat": [
+		{
+			"photo": "img/adamcatlace.png",
+			"name": "Adam Catlace",
+			"age": 2
+		},
+		{
+			"photo": "img/tpl.jpg",
+			"name": "Tim Purrners-Lee",
+			"age": 9
+		},
+		{
+			"photo": "img/alanpurring.jpg",
+			"name": "Alan Purring",
+			"age": 7
+		},
+		{
+			"photo": "img/vector.jpg",
+			"name": "Vector",
+			"age": 11
+		},
+		{
+			"photo": "img/shrodingcat.png",
+			"name": "Schrödingcat"
+		}
+	]
+}
