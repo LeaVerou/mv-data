@@ -23,6 +23,11 @@
 		{
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/csssecrets/mv-data/6e1c5ff427432f357f1a5d22c8b5b764f2eba98a/images/IMG_6558.JPG",
+			"name": "Foo Bar",
+			"age": "3"
 		}
 	]
 }
