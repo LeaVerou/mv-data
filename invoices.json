@@ -6,6 +6,26 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "4",
+			"currency": "$",
+			"services": []
+		},
+		{
+			"id": "3",
+			"date": "2017-05-17",
+			"recipient": {
+				"name": "Gast",
+				"address": "Talmastraat"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "sdsad",
+					"amount": "500"
+				}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
