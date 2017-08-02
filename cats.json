@@ -25,8 +25,12 @@
 			"name": "Schrödingcat"
 		},
 		{
-			"name": "Bob Catter",
-			"age": "98"
+			"photo": "https://cdn.rawgit.com/LeaVerou/mv-data/a35642b83b86061e3eb3ddfccae97e6faa724b1d/images/chris-av.jpg",
+			"name": "Smashed Avocado",
+			"age": "100"
+		},
+		{
+			"name": "Bob Catter"
 		}
 	]
 }
