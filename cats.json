@@ -24,6 +24,9 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "5"
+		},
+		{
+			"name": "CoolKat"
 		}
 	]
 }
