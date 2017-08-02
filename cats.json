@@ -22,7 +22,8 @@
 		},
 		{
 			"photo": "img/shrodingcat.png",
-			"name": "Schrödingcat"
+			"name": "Schrödingcat",
+			"age": "-23"
 		},
 		{
 			"photo": "https://cdn.rawgit.com/LeaVerou/mv-data/a35642b83b86061e3eb3ddfccae97e6faa724b1d/images/chris-av.jpg",
