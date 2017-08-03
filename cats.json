@@ -29,6 +29,11 @@
 			"photo": "https://cdn.rawgit.com/LeaVerou/mv-data/a35642b83b86061e3eb3ddfccae97e6faa724b1d/images/chris-av.jpg",
 			"name": "Smashed Avocado",
 			"age": "100"
+		},
+		{
+			"photo": "http://www.funnycatsite.com/pictures/cowboy_cat7684.jpg",
+			"name": "Bob Catter",
+			"age": "98"
 		}
 	]
 }
