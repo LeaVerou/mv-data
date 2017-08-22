@@ -6,7 +6,12 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
-			"id": "3",
+			"id": "1",
+			"currency": "$",
+			"services": []
+		},
+		{
+			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
 				"name": "Widget Corp",
@@ -27,16 +32,6 @@
 					"amount": "20"
 				}
 			]
-		},
-		{
-			"id": "2",
-			"date": "2017-08-22",
-			"recipient": {
-				"name": "Cat Toys Inc",
-				"address": "Scratching Post Road\nSandy Box, NJ"
-			},
-			"currency": "$",
-			"services": []
 		},
 		{
 			"id": "1",
