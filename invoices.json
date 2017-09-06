@@ -6,6 +6,11 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "3",
+			"currency": "$",
+			"services": []
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
