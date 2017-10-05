@@ -26,7 +26,8 @@
 		},
 		{
 			"name": "Raccoon",
-			"age": "28"
+			"age": "28",
+			"photo": "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr03/2013/7/17/13/anigif_enhanced-buzz-18478-1374081445-4.gif"
 		}
 	]
 }
