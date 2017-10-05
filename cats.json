@@ -23,6 +23,11 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/leaverou-test/mv-data/0983f817c0196b85515e8053b7ddb74fdd42d35b/images/pasted-image-1507193189351.png",
+			"name": "Testcat",
+			"age": "5"
 		}
 	]
 }
