@@ -3,12 +3,11 @@
 		{
 			"photo": "img/adamcatlace.png",
 			"name": "Adam Catlace",
-			"age": 2
+			"age": 3
 		},
 		{
 			"photo": "img/tpl.jpg",
-			"name": "Tim Purrners-Lee",
-			"age": 9
+			"name": "Tim Purrners-Lee"
 		},
 		{
 			"photo": "img/alanpurring.jpg",
@@ -18,22 +17,12 @@
 		{
 			"photo": "img/vector.jpg",
 			"name": "Vector",
-			"age": 11
+			"age": 12
 		},
 		{
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-23"
-		},
-		{
-			"photo": "https://cdn.rawgit.com/LeaVerou/mv-data/a35642b83b86061e3eb3ddfccae97e6faa724b1d/images/chris-av.jpg",
-			"name": "Smashed Avocado",
-			"age": "100"
-		},
-		{
-			"photo": "http://www.funnycatsite.com/pictures/cowboy_cat7684.jpg",
-			"name": "Bob Catter",
-			"age": "98"
 		}
 	]
 }
