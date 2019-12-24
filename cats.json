@@ -27,6 +27,11 @@
 		{
 			"name": "Mistoffeles",
 			"age": "12"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/darkxangel84/mv-data/67f6e073b7403cf3c9a98e6cdfbd0176b294270d/images/DSC_2694.JPG",
+			"name": "Reno",
+			"age": "10"
 		}
 	]
 }
