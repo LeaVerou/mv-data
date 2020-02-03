@@ -6,6 +6,26 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "3",
+			"date": "2020-02-03",
+			"recipient": {
+				"name": "Test",
+				"address": "Touring St 123"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "Design",
+					"amount": "300"
+				},
+				{
+					"description": "Coding",
+					"amount": "600"
+				}
+			],
+			"notes": "Initial payment "
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
